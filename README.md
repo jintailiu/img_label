@@ -1,7 +1,7 @@
 # Img_label
 
 This is a simple application for transforming a picture into binary for further process. Example:
-![plot](https://github.com/jintailiu/img_label/tree/master/example/TEST_IMG1.png)
+![What is this](https://github.com/jintailiu/img_label/tree/master/example/TEST_IMG1.png)
 ![plot](https://github.com/jintailiu/img_label/tree/master/example/TEST_RESULT1.png)
 
 
